@@ -1,0 +1,15 @@
+.post-detail{
+    padding: 15px;
+    margin: 15px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px lavender;
+    background-color: rgb(255, 239, 220);
+}
+.comment-details{
+    padding: 15px;
+    margin: 10px;
+    margin-bottom: 5px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px lavender;
+    background-color: rgb(255, 239, 220);
+}
